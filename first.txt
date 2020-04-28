@@ -3,3 +3,4 @@ But it's a bit cold.
 ・git add
 ・git commit
 ・git remove
+・git status
