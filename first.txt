@@ -1,2 +1,4 @@
 It's a nice today.
 But it's a bit cold.
+・git add
+・git commit
