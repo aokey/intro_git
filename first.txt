@@ -4,3 +4,4 @@ But it's a bit cold.
 ・git commit
 ・git remove
 ・git status
+・git diff
